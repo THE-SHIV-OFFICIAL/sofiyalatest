@@ -124,7 +124,7 @@ const startCommand = async (ctx) => {
     ],
     [
       Markup.button.callback(`📜 ${ff('Commands')}`, 'help_main'),
-      Markup.button.url(`🌐 ${ff('Website')}`, 'https://beatbothub.netlify.app/'),
+      Markup.button.url(`🌐 ${ff('Website')}`, 'https://betabot.app/'),
     ],
     [
       Markup.button.url(`👑 ${ff('My Lord')}`, 'https://t.me/SUKOON_S'),
